@@ -1,0 +1,1 @@
+The Simple Moving Average (SMA) is a commonly used technical indicator in trading that helps smooth out price data by calculating an average price over a specific number of periods. The SMA is used to identify trends and potential buy or sell signals based on historical price data.
